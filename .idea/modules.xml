@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RxJava/RxJava.iml" filepath="$PROJECT_DIR$/RxJava/RxJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StickyNavLayout/StickyNavLayout.iml" filepath="$PROJECT_DIR$/StickyNavLayout/StickyNavLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leafanimation/leafanimation.iml" filepath="$PROJECT_DIR$/leafanimation/leafanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" filepath="$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" />
+    </modules>
+  </component>
+</project>

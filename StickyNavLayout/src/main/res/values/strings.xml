@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StickyNavLayout</string>
+    <string name="tabfragment_one">TABFRAGMENT_ONE</string>
+    <string name="tabfragment_two">TABFRAGMENT_TWO</string>
+</resources>
